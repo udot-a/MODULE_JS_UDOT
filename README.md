@@ -1,5 +1,5 @@
 # MODULE JS by Udot Andrii
-[**MODULE JS**](https://github.com/EKarakaptan/toptoday)
+[**MODULE JS**] https://udot-a.github.io/MODULE_JS_UDOT/)
 
 [![](./)](https://github.com/EKarakaptan/toptoday)
 

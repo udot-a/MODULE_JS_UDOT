@@ -1,7 +1,5 @@
 # MODULE JS by Udot Andrii
-# Home work 14 by JS from Udot Andrii
-## Sample
-[**TopToday**](https://github.com/EKarakaptan/toptoday)
+[**MODULE JS**](https://github.com/EKarakaptan/toptoday)
 
 [![](./)](https://github.com/EKarakaptan/toptoday)
 

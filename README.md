@@ -1,4 +1,4 @@
-# HW14_UDOT
+h1 MODULE JS by Udot Andrii
 # Home work 14 by JS from Udot Andrii
 ## Sample
 [**TopToday**](https://github.com/EKarakaptan/toptoday)
